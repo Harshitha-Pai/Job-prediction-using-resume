@@ -26,7 +26,7 @@ Built with **Python, Scikit-learn, and Streamlit**, this project demonstrates te
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/resume-prediction.git
+   git clone https://github.com/Harshitha-Pai/Job-prediction-using-resume.git
    cd resume-prediction
 
 Create and activate a virtual environment (recommended):
