@@ -34,14 +34,14 @@ python -m venv venv
 source venv/bin/activate  # On Mac/Linux
 venv\Scripts\activate     # On Windows
 
-
+---
 Install dependencies:
 pip install -r requirements.txt
-
+---
 
 Train (if needed):
 Open and run notebook/train_model.ipynb
-
+---
 Run the web app:
 streamlit run app/app.py
 
