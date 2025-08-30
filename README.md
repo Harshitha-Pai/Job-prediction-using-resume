@@ -25,6 +25,7 @@ Built with **Python, Scikit-learn, and Streamlit**, this project demonstrates te
 ## ⚙️ Installation  
 
 1. Clone the repository:  
+   ```bash
    git clone https://github.com/<your-username>/resume-prediction.git
    cd resume-prediction
 
